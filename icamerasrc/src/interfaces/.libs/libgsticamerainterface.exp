@@ -1,4 +1,0 @@
-gst_camerasrc_3a_interface_get_type
-gst_camerasrc_dewarping_interface_get_type
-gst_camerasrc_isp_interface_get_type
-gst_camerasrc_wfov_interface_get_type

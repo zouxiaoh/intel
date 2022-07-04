@@ -52,6 +52,7 @@
 #include <linux/videodev2.h>
 #include "gstcampushsrc.h"
 #include <queue>
+#include <string>
 #include <vector>
 #include <set>
 
